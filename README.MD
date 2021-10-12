@@ -15,4 +15,6 @@
 
  - `cd` to The Directory where the folder is located (`cd path/to/folder`)
  - Type `push-pr {Repo-Name}` for Command Prompt
+   If that doesn't work:
+   - Set an environment variable named 'push-pr' and set the path to `%USERPROFILE%\push-pr.bat`
  - Or you can Run 'push-pr.py' file and follow the on-screen instructions
