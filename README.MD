@@ -1,6 +1,9 @@
 # Installation:
  
  - Run the setup.bat file on Windows
+ - (Optional):
+   - Set an environment variable for Github-Username and Github-Password
+ - Or Modify the username and password variables in the 'push-pr.py'
 
 # What does the 'setup.bat' file do?:
 
