@@ -7,8 +7,6 @@ from selenium import webdriver
 from colorama import Fore as fc
 from subprocess import getoutput
 
-#!TODO Make A Readme and add a setup file to store this and the bat file in the location 
-
 if len(sys.argv) < 2:
     path = input(f"{fc.LIGHTBLUE_EX}Enter the path of the Folder: {fc.WHITE}\n")
     repo = input(f"{fc.LIGHTBLUE_EX}Enter the name of Repository: {fc.WHITE}\n")
