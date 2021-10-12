@@ -84,7 +84,7 @@ try:
 
     done = True
 
-    print(f"✔️{fc.LIGHTGREEN_EX} Created A New Private Repository: {repo} {fc.WHITE}")
+    print(f"\r✔️{fc.LIGHTGREEN_EX} Created A New Private Repository: {repo} {fc.WHITE}")
 
 except Exception:
 
