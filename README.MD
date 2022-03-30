@@ -1,3 +1,5 @@
+yes I am dumb, I didn't know it was possible with the python library `PyGithub`. I realised that after I pushed it and I'm kind of lazy you know
+
 # Installation:
  
  - Run the setup.bat file on Windows
